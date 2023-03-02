@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         }else {
             selectedAnswer = clickedButton.getText().toString();
-            clickedButton.setBackgroundColor(Color.BLACK);
+            clickedButton.setBackgroundColor(Color.YELLOW);
         }
     }
     void loadNewquestion(){

@@ -97,6 +97,7 @@
         android:id="@+id/submit_btn"
         android:text="Submit"
         android:layout_below="@id/choices_layout"
+        android:backgroundTint="#EF7417"
         android:layout_marginTop="40dp"/>
 
 </RelativeLayout>
